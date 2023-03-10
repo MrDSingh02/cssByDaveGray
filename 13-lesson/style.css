@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*!  '*{}' Some Global Command CSS resete */
+body{
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    min-height: 200vh;
+}
+header{
+    text-align: center;
+    color: aqua;
+    border: 3px solid;
+    margin: auto;
+    padding: 1rem;
+    background-color: aliceblue;
+}
+/*!  */
+.outer-container{
+    border: 3px dashed #000;
+    width: 75vw;
+    height: 85vw;
+    margin: 40px auto;
+}
+.inner-container{
+    border: 2px solid #00f;
+    width: 40vw;
+    height: 50vw;
+    margin: 200px auto;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    color: #fff;
+    padding: 1rem;
+}
+
+
+/*!  */
+footer{
+    color: yellowgreen;
+    border: 3px dotted;
+    margin: auto;
+    padding: 1.5rem;
+    text-align: center;
+    background-color: yellow;
+    
+}
