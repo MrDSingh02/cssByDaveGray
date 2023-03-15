@@ -1,27 +1,49 @@
-#  Chapter 15: Grid Layout
-
-( 4H : 21Min : 12 Sec ) 
-
+# Chapter 16: Images 
+( 4H : 46Min : 06 Sec ) 
 ## Overview
 
-CSS Grid Intro and Basic Layout Tutorial for Beginners
+CSS Background Images and Responsive Image Properties for Beginners
 
 * (00:00) Intro
 * (00:05) Welcome
-* (00:26) Setup & Starter Code Review
-* (01:48) Quickest way to apply a grid
-* (02:32) grid-template-columns
-* (05:28) grid-auto-rows
-* (07:01) grid-template-rows, grid-auto-columns
-* (07:27) row-gap, column-gap, gap
-* (08:36) grid-column-start & end, grid-row-start & end
-* (10:49) Viewing your grid in dev tools
-* (12:19) grid-column, grid-row shorthand
-* (14:14) align-content, justify-content, place-content
-* (16:00) Adding HTML for grid-template-areas
-* (17:49) grid-template-areas, grid-area
-* (22:14) Experimenting with layout properties
-* (24:53) CSS Grid Garden
+* (00:26) Starter Code
+* (01:33) Prevent content layout shift
+* (04:02) Style responsive images
+* (06:23) Remove the default space under images
+* (08:51) Profile picture example
+* (13:32) Hero section
+* (18:37) Fallback background-color
+* (19:31) Setting a background-image
+* (21:01) background-repeat
+* (21:38) background image patterns
+* (23:04) background-size
+* (24:57) Image size considerations
+* (26:24) Make text standout over a background
+* (28:50) Create a background mask layer
+* (31:50) background-position
+* (33:28) linear-gradient backgrounds
+* (36:19) Multiple background image layers
+* (38:51) background-size 
+* (39:23) Filling text with a background image
+* (44:35) background property shorthand
+
+
+## 🖼️ Image Resources:
+
+1. [Placeholder Image Generators: ](https://loremipsum.io/21-of-the-best-placeholder-image-generators/)
+2. Sites with Freely-Usable Images: 
+    * <https://unsplash.com/>
+    * <https://www.pexels.com/>
+    * <https://gratisography.com/>
+    * <https://pixabay.com/>
+3. Image Editing / Resizing Software: 
+    * For Windows: <https://www.irfanview.com/>
+    * As a Service:<https://www.canva.com/>
+    * [Suggestions for Mac: ](https://www.cleverfiles.com/howto/top-5-photo-editing-apps-mac.html)
+4. Full Featured Editor for Windows/Mac/Linux: 
+    * <https://www.gimp.org/>
+5. Image Compression (shrink file size): 
+    * <https://tinypng.com/>
 
 
 ## ⚙ Web Dev Tools:
@@ -34,7 +56,8 @@ CSS Grid Intro and Basic Layout Tutorial for Beginners
 
 * [🔗 W3C CSS Validator:](https://jigsaw.w3.org/css-validator/)
 * [🔗 Specificity Calculator:](https://specificity.keegan.st/)
-* [🔗 HTML Special Characters and Entities:]() https://unicode-table.com
+* [🔗 HTML Special Characters and Entities:](https://unicode-table.com) 
+* [🔗 CanIUse.com:](https://caniuse.com/)
 
 ## 📚 References:
 * [🔗 MDN CSS:](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -54,6 +77,9 @@ CSS Grid Intro and Basic Layout Tutorial for Beginners
 * [🔗 MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) 
 * [🔗 MDN - Basic Concepts of Grid Layout:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 * [🔗 MDN - Grid Template Areas:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Grid_Template_Areas)
+* [🔗 MDN - CSS Images:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images) 
+* [🔗 MDN - CSS Background Images:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images) 
+* [🔗 Chip Cullen - Article on Content Layout Shift:](https://chipcullen.com/what-width-and-height-attributes-to-use-with-responsive-images/)
 
 ## 📚 Typography Resources:
 
