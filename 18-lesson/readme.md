@@ -1,23 +1,26 @@
-# Chapter 17: Media Queries 
- ( 5H : 32Min : 13 Sec )
+# Chapter 18: Card Project  
+( 5H : 58Min : 32 Sec ) 
 
  ## Overview
 
-CSS Media Queries & Responsive Web Design tutorial for Beginners
+CSS Responsive Card Design | Mini-Project Tutorial for Beginners
 
 * (00:00) Intro
 * (00:05) Welcome
-* (00:26) Starter Code
-* (01:26) Viewport meta tag
-* (02:48) Syntax of a media query
-* (03:28) Think mobile first
-* (05:53) Other query types and breakpoints
-* (07:11) How to choose breakpoints
-* (10:25) Build a basic page layout
-* (16:11) Add a media query
-* (17:49) Use dev tools to view different screen sizes
-* (20:41) Add all media queries
-* (24:14) View each breakpoint change
+* (00:26) Project Preview
+* (02:10) Starter Code
+* (02:52) HTML structure
+* (08:59) CSS Styles
+* (09:26) CSS Reset
+* (10:57) Utility Classes
+* (12:23) General Styles 
+* (17:09) card class styles
+* (22:22) Small breakpoint media query
+* (24:31) Medium breakpoint media query
+* (26:42) Large and XL breakpoints
+* (28:34) Testing the breakpoints
+* (30:14) Mobile device landscape breakpoint
+* (33:34) Experiment and make it your own
 
 
 ## 🖼️ Image Resources:
